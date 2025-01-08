@@ -30,6 +30,7 @@ cd frontend
 
 # Install Project Dependencies (If not already installed)
 npm install
+
 ![image](https://github.com/user-attachments/assets/7187b2f6-ba78-4016-a35d-bfa223e59ce5)
 
 # Run the React Development Server
